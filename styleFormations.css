@@ -1,0 +1,53 @@
+body
+{
+    font-family: tahoma, 'Times New Roman', Times, serif;
+    font-size: small;
+
+}
+
+
+
+#page
+{
+    display: flex;
+    flex-direction: row;
+    background: white;
+    justify-content: space-between;
+    width: 1300px;   
+    margin: auto;
+    padding: auto;
+}
+
+h1 
+{
+    color: rgb(0, 112, 192);
+    text-decoration: underline;
+}
+
+#Parcour_scolaire
+{
+    width: 420px;
+    border: 1px solid rgb(0, 112, 192);
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px  black;
+}
+
+#Formations_supp
+{
+    width: 400px;
+    border: 1px solid rgb(0, 112, 192);
+    padding: 1px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px  black;
+
+}
+
+#Formation_part
+{
+    width: 400px;
+    border: 1px solid rgb(0, 112, 192);
+    padding: 1px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px  black;
+
+}
